@@ -1,4 +1,6 @@
 我又修改README.md
+
+在b分支上，修改了README.md
 # git-text
 
 ## Project setup
