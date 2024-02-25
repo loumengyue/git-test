@@ -1,7 +1,6 @@
 我又修改README.md
 
-在b分支上，修改了README.md
-在b分支上，再次修改README.md
+b改动后合并进master；a改动同一处也想合进master----产生冲突---要他的/要我的/手动改改冲突
 # git-text
 
 ## Project setup
