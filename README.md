@@ -4,6 +4,8 @@ b改动后合并进master；a改动同一处也想合进master----产生冲突--
 
 测试--git push---推送当前分支最新的到远端
 测试--git pull---其他用户修改后，个人本地拉取最新
+
+测试--用户B克隆了仓库代码，修改后，提交到仓库
 # git-text
 
 ## Project setup
